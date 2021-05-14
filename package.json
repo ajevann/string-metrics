@@ -1,0 +1,18 @@
+{
+  "name": "string-metrics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "diff": "^5.0.0",
+    "fastest-levenshtein": "^1.0.12",
+    "performance-now": "^2.1.0",
+    "string-similarity": "^4.0.4"
+  }
+}
